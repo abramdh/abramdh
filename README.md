@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Halo Guys !!!
 Perkenalkan nama saya **Abrann Dimas Hoswandi**.
 Mahasiswa Informatika Bengkulu University<br>
@@ -11,4 +8,4 @@ Hal disini adalah tempat saya melakukan karya untuk membuat program terbaik yang
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
--->
+
