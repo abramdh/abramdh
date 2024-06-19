@@ -1,4 +1,3 @@
-# Halo Guys !!!
 <h1> Hello, Iam <b>Abram Dimas Hoswandi</b> </h1>
 <h5> I am currently an active Informatics student studying at Bengkulu University. I am a person who likes challenges and new things every time, especially interested in new knowledge and skills, especially in the IT world such as Artificial Intelligence, Artificial Neural Networks, Data Analytics, Cloud Computing, Web Development, especially in the PHP programming language based on the Laravel framework, then also likes activities that build leadership, communication, a sense of social sensitivity by participating in campus organizations and activities, especially now that I am participating in Cloud Computing Cohort at Bangkit Academy 2024 </h5>
 <p align="left">
